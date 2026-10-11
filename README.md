@@ -49,6 +49,7 @@ By moving from a single-point estimate to a full **EV probability distribution**
 ---
 
 ## Valuation Results & Simulation Output
+<img width="1097" height="596" alt="Screenshot 2026-10-11 at 1 25 41 PM" src="https://github.com/user-attachments/assets/0ce39278-3f9f-401b-be1d-fa4a39dd1347" />
 
 
 ### Key Metrics Summary (USD in Millions)
