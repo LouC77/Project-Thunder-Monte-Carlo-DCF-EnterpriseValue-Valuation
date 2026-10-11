@@ -28,7 +28,7 @@ By moving from a single-point estimate to a full **EV probability distribution**
 
 ## Key Features & Methodology
 
-* **Mid-year discounting convention**: Cash flows discounted at $t = 0.5, 1.5, 2.5, 3.5, 4.5$ with $WACC = 12.9\%$.
+* **Mid-year discounting convention**: Cash flows discounted at $t = 0.5, 1.5, 2.5, 3.5, 4.5$ with $WACC = 12.9%.
 * **Working capital dynamics**: Net working capital is set at 28.6% of revenue, so revenue contractions ($g < 0$) automatically release working capital as a cash inflow.
 * **Terminal value**: Gordon Growth at a 2.8% perpetual growth rate. Terminal-year NWC investment is recalculated from the normalized growth rate instead of scaling Year 5 FCF, which avoids carrying high projection-period growth into perpetuity.
 * **Reproducibility**: Random seed fixed at 42.
