@@ -76,7 +76,7 @@ p5_ev = np.percentile(simulated_ev, 5)
 p95_ev = np.percentile(simulated_ev, 95)
 static_base_ev = 522.17  # Excel base case
 
-print("Project Thunder - Monte Carlo DCF (USD m)")
+print("Stochastic DCF Valuation (USD m)")
 print("-" * 50)
 print(f"PV of FCF 2026-2030 (median) : {med_pv_fcf:8.2f}")
 print(f"PV of terminal value (median): {med_pv_tv:8.2f}")
